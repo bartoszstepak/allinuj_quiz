@@ -1,0 +1,18 @@
+.dashboard_component
+{
+    height: 100%;
+    width: 100%;
+    background-image: url("bg1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dashboard_title
+{
+
+}
+
+.dashboard_buttons
+{
+
+}
